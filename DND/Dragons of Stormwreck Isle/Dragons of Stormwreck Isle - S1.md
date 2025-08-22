@@ -1,32 +1,31 @@
 # DRAGONS OF STORMWRECK ISLE
-## CORNELIUS HOGGLEFART - RYAN - FIGHTER
+## TYRION THRUSTWILLOW - JUSTIN - FIGHTER
 -45(M) Wood Elf 
 -Folk Hero
   -Came to Dragon's Rest in the hope that Runara can help him understand the sense of destiny that weighs on his shoulders.
   - Individually Runara invites the character to consider how their reaction to the zombies on the beach might reflect their destiny - or not
-  - If approached Runara will encourage Cornelius to consider whether his heroic actions might be the first manifestations of that destiny taking shape.
-    - At the end of the adventure Runara encourages Cornelius to continue on his path. "If your destiny is not clear to you yet, I'm confident it soon will be."
-## ELDRIN VALMIR - TIM - WIZARD
+  - If approached Runara will encourage Tyrion to consider whether his heroic actions might be the first manifestations of that destiny taking shape.
+    - At the end of the adventure Runara encourages Tyrion to continue on his path. "If your destiny is not clear to you yet, I'm confident it soon will be."
+## HARRY STAPHLIN - DRAKE - WIZARD
   -399(M) High Elf 
   -Wearing common clothes, cloak
   -Here to learn  
     -Carries a letter from a colleague about lost knowledge held in the office observatory. 
       -If asked about the observatory, Ruanara says "Many have sought the knowledge contained in that place. I can direct you there, but first you will have to show me you are worthy."
-## THESLA ALESANDRA BUBBLEBUT - REBECCA - PALADIN
+## GLORY HOLKSTEIN - DRAKE - PALADIN
   -21(F) - Human Paladin
   -Lawful Good
   -Seeking rest and new resolve
     -Fathers death bed (still alive) he suggested she find her purpose in life.
-      -Runara welcomes and encourages `Thesla` to talk with Tarak and Varnoth.
+      -Runara welcomes and encourages `GLORY` to talk with Tarak and Varnoth.
         -Also referred to Temple of Bahamut
   ### ABILITIES
-    -Can heal wounds, blessed with touch.
-## THORA EMBERFORGE - SIDSTER - CLERIC
-  -142(F) Hill Dwarf 'Don't call me old'
+## GHENGIS HITLER - DERRIK - CLERIC
+  -142(F) Hill Dwarf 
   -Soldier (Military Captain) turned Cleric
   -Lawful Good
   -Recently had dreams of the shadow of death, comes to dragons rest to find what this means.
-## VEX NIGHTSHADE - SYRUS - ROGUE
+## TOBIN "NO DAGGER" BUSHTHUMPER - JSTIN - ROGUE
   -24(M) Lightfoot Halfling
   -Small, short as a barrel
   -Looking for "lost fortune"
@@ -60,13 +59,3 @@
 ## CHAPTER 1 - DRAGONS REST
   - `Blepp` comes to adventurers asking to save his friend from the zombies
   - Leads party back to the beach where they see the zombies attacking a man
-  - Party was able to successfully defeat the zombies and were able to rescue the man, who was to be known as `Tarak`
-  ### TARAK - Cornelius, Eldrin, Thora, Vex
-    - Botanist that spoke of his need to go to the caves to harvest mushrooms to make healing potions
-      - as of late the Seagrow Cave has been overrun and he asks that the party clear it out. 
-  ### RUNARA - `Thesla`
-    - `Thesla` Went to the Statue. `Runara` came to the statue and spoke with `Thesla`.
-    - `Runara` told `Thesla` the statue was Runara's father, and Runara diplayed her true `dragon` form to `Thesla`
-  -Party decided together that they would next head down to the Seagrow Caves to see if they could help resolve the issue. 
-## CHAPTER 2 - SEAGROW CAVES
-  -

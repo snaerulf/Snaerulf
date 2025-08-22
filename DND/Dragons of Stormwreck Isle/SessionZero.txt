@@ -1,20 +1,9 @@
-Agenda
-1. Discuss Topic & Theme of campaign
+# Agenda
+-1. Discuss Topic & Theme of campaign
     A. Very loose play campaign - Biggest goal is everyone participate and everyone have fun.
-
-2. Decide on any house rules or homebrew elements you want to use.
-    a. Incense:
-    b. Music:
-    c. No Alcohol
-    d. Snacks:
-    e. Contact Method / Structure: (Group Text, email, 3rd party app, etc.)
-    f. Children
-    g. Cosplay: HIGHLY encouraged, not required
-
-3. Character Creation
+    B. Characters will keep track of their own inventory and spells
+    
+-2. Character Creation
     a. Descriptions:
     b. Roles: We will NOT be getting that detailed in our campaigning.
-
-4. Campaign character Interaction - Will have previously met each other. 
-
-5. Questions
+-3. Campaign character Interaction - Will have previously met each other. 
